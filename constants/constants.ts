@@ -1,0 +1,2 @@
+export const NFT_CONTRACT_ADDRESS = "0xE36AC7C5D3583794a9D5622C1b6a7a68ec12Eaae";
+export const GIFT_URI = "ipfs://QmSJsf3FHmbDW7vcJ8QS7jePsxGY9ZbxCmMetUveuTVmaF";
